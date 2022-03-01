@@ -12,6 +12,9 @@ The program then checks the users age and sees what age group the number falls i
 
 Our Code of Conduct and License allow for the code created in this project to be used and reused with very few limits and create a welcoming environemnt for contributors. Our Code of Conduct outlines rules that create an inclusive and healthy conmmunity, something we believe is necessary for both the growth of this project and the growth of its contributors. This project follows the philosophy that sharing and reusing code allows for maximum societal benefit, thus we make our code open for use. However, our team also believes in creators receiving proper credit for their work, thus we require that those who benefit from this project give proper credit to its contributors, as outlined within the License.
 
+# How to Use
+To use this software, first clone the git repository into JupyterLab. Then open the file titled Lab6.ipynb. To run the program, click on the code block and press shift + enter. Then follow the prompts entering your name and age. A simple sentence about yourself will then be printed.
+
 # Use and Contributions
 
 This project is open for anyone to make contributions to, and can be used in anyway.
